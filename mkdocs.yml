@@ -1,0 +1,11 @@
+
+site_name: Dockerfile Documentation
+repo_url: https://github.com/moird/dockerfiles
+dev_addr: 0.0.0.0:8000
+site_dir: /site
+
+pages:
+- [index.md, Home]
+- [about.md, About]
+
+theme: readthedocs
